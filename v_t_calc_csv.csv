@@ -1,4 +1,4 @@
-date,cases_new,cases_recovered,cases_active,daily_full,N,Cum_NewCases,Cum_Recovered,Cum_Vax,,S=N-(I+R+V),v(t),,,,,,,,,,
+date,cases_new,cases_recovered,cases_active,daily_full,N,Cum_NewCases,Cum_Recovered,Cum_Vax,,S=N-(I+R+V),v_t,,,,,,,,,,
 25/01/2020,4,0,4,0,"32,600,000",4,0,0,,"32,599,996",0.00000000,,,,,,,,,,
 26/01/2020,0,0,4,0,,4,0,0,,"32,599,996",0.00000000,,,,,,,,,,
 27/01/2020,0,0,4,0,,4,0,0,,"32,599,996",0.00000000,,,,,,,,,,
